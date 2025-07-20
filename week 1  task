@@ -1,0 +1,48 @@
+Week 1: Course Plan
+
+comments
+Welcome to Week 1 of your Data Science journey! This week sets the programming foundation you'll rely on throughout your course. You'll start by setting up Python and understanding how it works, then build your skills with variables, data types, control flow, functions and data structures. By the end of the week, you’ll be comfortable writing clean, efficient Python code with practical features like file handling, OOP and decorators.
+
+OOPs_collections.webpOOPs_collections.webp
+Day 1 – Installation, Input/Output and Variables
+Start from scratch by installing Python and writing your first few lines of code.
+
+Install Python and set up your environment
+Understand basic input and output operations
+Learn about variables and naming conventions
+Get introduced to Python keywords
+Day 2 – Data Types, Operators and Conditionals
+Dive into how Python stores data and processes logic.
+
+Understand built-in data types like int, float, string, bool
+Use arithmetic, comparison and logical operators
+Write conditional programs using if, elif and else
+Day 3 – Loops, Functions and Lambda
+Automate repetition and reuse code with loops and functions.
+
+Use for and while loops to iterate through data
+Learn how to define and call functions
+Explore lambda functions and understand when to use them
+Day 4 – Strings and Lists
+Start working with sequences two of Python’s most used data types.
+
+Manipulate strings and use built-in string methods
+Learn list creation, indexing, slicing and common list operations
+Day 5 – Tuples, Sets and Dictionaries
+Expand your toolkit with more advanced Python data structures.
+
+Understand immutability with tuples
+Explore unique-value storage using sets
+Create and manipulate key-value pairs with dictionaries
+Day 6 – Collections, Comprehensions and OOP
+Make your Python code more efficient and organized.
+
+Learn specialized container types from the collections module
+Write one-liner logic with list, set and dictionary comprehensions
+Get introduced to Object-Oriented Programming in Python
+Day 7 – Exception Handling, File I/O and Advanced Python
+Wrap up the week with advanced, real-world coding skills.
+
+Handle runtime errors with try, except, finally
+Work with files: read, write and manipulate text files
+Explore useful features: generators, decorators, context managers and a basic intro to APIs
